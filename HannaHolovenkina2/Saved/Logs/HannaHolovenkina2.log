@@ -2430,3 +2430,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.26-20.56.02:389][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.05.26-20.56.02:400][715]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
 [2023.05.26-20.56.02:433][716]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.26-21.00.31:570][638]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2023.05.26-21.00.31:601][638]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto15B3F05024C90A2C8D95578903031195D.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.05.26-21.00.31:604][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.111
+[2023.05.26-21.00.31:604][638]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2023.05.26-21.00.31:605][638]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Pawns/BP_PlayerPawn] ([2] browsable assets)...
+[2023.05.26-21.00.31:656][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Pawns/BP_PlayerPawn.BP_PlayerPawn]
+[2023.05.26-21.00.31:656][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Pawns/BP_PlayerPawn]
+[2023.05.26-21.00.31:672][638]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_PlayerPawn_Auto16DEF429D49B4B5165367CC89B013A831.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Pawns/BP_PlayerPawn_Auto1.uasset'
+[2023.05.26-21.00.31:673][638]LogFileHelpers: Auto-saving content packages took 0.069
+[2023.05.26-21.07.26:048][945]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2023.05.26-21.07.31:251][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.26-21.07.31:277][237]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level125467CDC43CE0CBDFCA6A19743AD32CD.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Levels/Level1.umap'
+[2023.05.26-21.07.31:329][237]AssetCheck: New page: Asset Save: Level1
+[2023.05.26-21.07.31:329][237]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.05.26-21.07.36:474][413]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.26-21.09.09:311][147]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.26-21.09.09:318][147]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.26-21.10.25:346][157]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.26-21.17.31:368][824]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2023.05.26-21.17.31:371][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.094
+[2023.05.26-21.17.31:372][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Pawns/BP_PlayerPawn] ([2] browsable assets)...
+[2023.05.26-21.17.31:420][824]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Pawns/BP_PlayerPawn.BP_PlayerPawn]
+[2023.05.26-21.17.31:420][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Pawns/BP_PlayerPawn]
+[2023.05.26-21.17.31:438][824]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_PlayerPawn_Auto2AE55EBBF4074927F69F9EB8462893897.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Pawns/BP_PlayerPawn_Auto2.uasset'
+[2023.05.26-21.17.31:439][824]LogFileHelpers: Auto-saving content packages took 0.068
+[2023.05.26-21.19.23:895][220]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2023.05.26-21.19.28:681][480]LogSlate: Window 'Project Settings' being destroyed
