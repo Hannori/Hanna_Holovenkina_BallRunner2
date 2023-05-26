@@ -918,3 +918,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.26-18.21.53:134][394]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2023.05.26-18.22.16:075][446]LogSlate: Window 'Project Settings' being destroyed
 [2023.05.26-18.22.16:082][446]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.26-18.23.24:513][411]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.05.26-18.23.40:629][821]LogEditorViewport: Clicking Background
+[2023.05.26-18.23.51:639][169]Cmd: TRANSACTION UNDO
+[2023.05.26-18.23.51:639][169]LogEditorTransaction: Undo Select Brush Surface
+[2023.05.26-18.23.55:864][332]LogEditorViewport: Clicking Background
+[2023.05.26-18.23.56:628][374]LogEditorViewport: Clicking Background
+[2023.05.26-18.24.02:363][677]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.24.03:556][734]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.05.26-18.24.14:059][215]LogEditorViewport: Clicking Background
+[2023.05.26-18.24.24:419][697]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.24.25:061][730]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.24.45:699][844]LogEditorViewport: Clicking Background
+[2023.05.26-18.25.21:414][ 51]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2023.05.26-18.25.53:914][947]LogEditorViewport: Clicking Background
+[2023.05.26-18.26.01:260][306]LogEditorViewport: Clicking Background
+[2023.05.26-18.26.04:001][451]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.26.04:669][487]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.26.07:210][607]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.26.07:735][633]LogEditorViewport: Clicking Background
+[2023.05.26-18.26.16:793][ 37]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.05.26-18.26.44:545][325]LogEditorViewport: Clicking Background
+[2023.05.26-18.26.56:470][882]LogEditorViewport: Clicking Background
+[2023.05.26-18.27.03:576][236]Cmd: EDIT COPY
+[2023.05.26-18.27.03:838][248]Cmd: EDIT PASTE
+[2023.05.26-18.27.24:628][177]Cmd: EDIT COPY
+[2023.05.26-18.27.24:891][189]Cmd: EDIT PASTE
+[2023.05.26-18.27.28:666][403]LogEditorViewport: Clicking Background
+[2023.05.26-18.27.37:277][835]Cmd: EDIT COPY
+[2023.05.26-18.27.37:527][846]Cmd: EDIT PASTE
+[2023.05.26-18.27.47:789][288]Cmd: EDIT COPY
+[2023.05.26-18.27.47:994][297]Cmd: EDIT PASTE
+[2023.05.26-18.27.52:260][479]LogEditorViewport: Clicking Background
+[2023.05.26-18.28.09:407][329]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.28.41:544][139]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.28.51:405][402]LogEditorViewport: Clicking Background
+[2023.05.26-18.28.53:264][438]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.29.21:528][ 81]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.29.24:536][132]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.29.28:469][197]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.29.29:910][219]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.29.34:398][346]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.29.56:923][977]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.30.18:507][560]LogEditorViewport: Clicking Background
+[2023.05.26-18.30.18:590][560]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.30.21:037][604]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.30.27:062][709]Cmd: EDIT COPY
+[2023.05.26-18.30.27:474][716]Cmd: EDIT PASTE
+[2023.05.26-18.30.33:013][811]Cmd: EDIT PASTE
+[2023.05.26-18.30.38:518][904]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2023.05.26-18.30.39:849][926]Cmd: EDIT COPY
+[2023.05.26-18.30.40:247][931]Cmd: EDIT PASTE
+[2023.05.26-18.30.46:716][ 39]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.30.47:736][ 57]Cmd: EDIT COPY
+[2023.05.26-18.30.48:038][ 61]Cmd: EDIT PASTE
+[2023.05.26-18.30.53:041][144]LogEditorViewport: Clicking Background
+[2023.05.26-18.31.07:584][394]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.31.14:225][594]LogEditorViewport: Clicking Background
+[2023.05.26-18.31.14:291][594]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.31.15:206][614]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.31.16:134][631]Cmd: EDIT COPY
+[2023.05.26-18.31.16:341][635]Cmd: EDIT PASTE
+[2023.05.26-18.31.26:068][791]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.31.29:836][848]LogEditorViewport: Clicking Background
+[2023.05.26-18.31.37:272][965]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.31.45:669][ 97]LogEditorViewport: Clicking Background
+[2023.05.26-18.31.46:959][116]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2023.05.26-18.31.51:807][193]Cmd: DELETE
+[2023.05.26-18.31.51:808][193]Cmd: ACTOR DELETE
+[2023.05.26-18.31.51:824][193]LogEditorActor: Deleted Actor: SpotLight
+[2023.05.26-18.31.51:873][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.26-18.31.51:876][193]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.05.26-18.31.54:621][239]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2023.05.26-18.32.04:113][399]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.32.06:199][447]LogEditorViewport: Clicking Background
+[2023.05.26-18.32.48:942][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.26-18.32.48:983][309]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto12FA5F254479BFA1FE92752AD2FE03511.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.05.26-18.32.48:987][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.067
+[2023.05.26-18.32.48:987][309]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.05.26-18.32.57:850][553]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.26-18.33.37:969][277]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.26-18.33.37:993][277]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.26-18.33.43:292][378]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2023.05.26-18.33.53:146][744]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.34.00:412][896]LogEditorViewport: Clicking Background
+[2023.05.26-18.34.03:165][950]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-18.34.07:137][ 23]Cmd: TRANSACTION UNDO
+[2023.05.26-18.34.07:137][ 23]LogEditorTransaction: Undo Move Actors
+[2023.05.26-18.34.07:752][ 37]LogEditorViewport: Clicking Background
+[2023.05.26-18.42.49:343][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.26-18.42.49:379][941]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto2C72880F949F1A1768EFABCB45DDB3BA4.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto2.umap'
+[2023.05.26-18.42.49:382][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.072
+[2023.05.26-18.42.49:382][941]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2023.05.26-18.56.10:731][321]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.26-18.56.10:731][321]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.26-18.56.44:570][249]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.56.46:916][372]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.56.47:047][378]LogSlate: Took 0.014940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.26-18.56.50:150][582]LogEditorViewport: Clicking Background
+[2023.05.26-18.56.58:279][936]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.26-18.57.03:711][ 66]Cmd: EDIT COPY
+[2023.05.26-18.57.03:944][ 74]Cmd: EDIT PASTE
+[2023.05.26-18.57.13:791][405]Cmd: EDIT COPY
+[2023.05.26-18.57.14:058][422]Cmd: EDIT PASTE
+[2023.05.26-18.57.23:648][792]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.26-18.57.30:030][  7]LogEditorViewport: Clicking Background
+[2023.05.26-18.57.31:016][ 52]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.26-18.57.41:699][472]LogEditorViewport: Clicking Background
+[2023.05.26-18.57.44:154][566]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.26-18.57.47:098][670]Cmd: DELETE
+[2023.05.26-18.57.47:098][670]Cmd: ACTOR DELETE
+[2023.05.26-18.57.47:103][670]LogEditorActor: Deleted Actor: PointLight
+[2023.05.26-18.57.47:131][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.26-18.57.47:134][670]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.05.26-18.57.50:183][801]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.05.26-18.57.51:512][845]Cmd: EDIT COPY
+[2023.05.26-18.57.52:478][876]Cmd: EDIT PASTE
+[2023.05.26-18.57.56:518][ 23]LogEditorViewport: Clicking Background
+[2023.05.26-18.58.04:170][336]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.05.26-18.58.08:247][473]LogEditorViewport: Clicking Background
+[2023.05.26-18.58.09:065][503]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.05.26-18.58.14:462][723]LogEditorViewport: Clicking Background
+[2023.05.26-18.58.21:208][967]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2023.05.26-18.58.23:526][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2023.05.26-18.58.28:048][222]LogEditorViewport: Clicking Background
+[2023.05.26-18.58.30:361][301]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.05.26-18.58.31:248][334]LogEditorViewport: Clicking on Actor (CTRL LMB): DirectionalLight (DirectionalLight2)
+[2023.05.26-18.58.34:623][447]LogEditorViewport: Clicking Background
+[2023.05.26-18.59.25:710][207]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.05.26-18.59.47:902][772]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.26-18.59.51:719][864]LogEditorViewport: Clicking Background
+[2023.05.26-19.00.03:283][126]LogRenderer: Reallocating scene render targets to support 992x472 Format 10 NumSamples 1 (Frame:28254).
+[2023.05.26-19.00.03:392][127]LogRenderer: Reallocating scene render targets to support 992x496 Format 10 NumSamples 1 (Frame:28256).
+[2023.05.26-19.00.03:510][128]LogRenderer: Reallocating scene render targets to support 992x528 Format 10 NumSamples 1 (Frame:28258).
+[2023.05.26-19.00.03:631][129]LogRenderer: Reallocating scene render targets to support 992x552 Format 10 NumSamples 1 (Frame:28260).
+[2023.05.26-19.00.03:752][130]LogRenderer: Reallocating scene render targets to support 992x580 Format 10 NumSamples 1 (Frame:28262).
+[2023.05.26-19.00.03:876][131]LogRenderer: Reallocating scene render targets to support 992x600 Format 10 NumSamples 1 (Frame:28264).
+[2023.05.26-19.00.08:846][280]LogRenderer: Reallocating scene render targets to support 1000x600 Format 10 NumSamples 1 (Frame:28339).
+[2023.05.26-19.00.08:961][281]LogRenderer: Reallocating scene render targets to support 1004x600 Format 10 NumSamples 1 (Frame:28341).
+[2023.05.26-19.00.09:188][283]LogRenderer: Reallocating scene render targets to support 1020x600 Format 10 NumSamples 1 (Frame:28345).
+[2023.05.26-19.00.09:309][284]LogRenderer: Reallocating scene render targets to support 1024x600 Format 10 NumSamples 1 (Frame:28347).
+[2023.05.26-19.00.09:428][285]LogRenderer: Reallocating scene render targets to support 1032x600 Format 10 NumSamples 1 (Frame:28349).
+[2023.05.26-19.01.04:450][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.26-19.01.04:468][762]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto3944EA1E0440FD80B099A8A9B2EAF6807.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto3.umap'
+[2023.05.26-19.01.04:469][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.034
+[2023.05.26-19.01.04:469][762]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.05.26-19.10.05:914][231]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.05.26-19.10.07:761][338]Cmd: EDIT COPY
+[2023.05.26-19.10.08:052][356]Cmd: EDIT PASTE
+[2023.05.26-19.11.26:561][453]LogEditorViewport: Clicking Background
+[2023.05.26-19.11.29:259][524]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2023.05.26-19.11.48:926][ 33]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2023.05.26-19.11.49:868][ 75]Cmd: EDIT COPY
+[2023.05.26-19.11.50:136][ 79]Cmd: EDIT PASTE
+[2023.05.26-19.12.00:443][261]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2023.05.26-19.12.03:748][308]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2023.05.26-19.12.13:941][825]LogEditorViewport: Clicking Background
+[2023.05.26-19.12.17:370][886]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2023.05.26-19.12.47:123][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.05.26-19.12.47:143][259]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto427AE9797443BB72DA4B41286C0AD466D.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto4.umap'
+[2023.05.26-19.12.47:144][259]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.035
+[2023.05.26-19.12.47:144][259]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
