@@ -2282,3 +2282,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.27-13.50.18:867][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Spike/BP_Spike]
 [2023.05.27-13.50.18:882][ 50]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Spike_Auto3607BD4F748C2614930E59ABD9AADDA5B.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Spike/BP_Spike_Auto3.uasset'
 [2023.05.27-13.50.18:887][ 50]LogFileHelpers: Auto-saving content packages took 0.330
+[2023.05.27-14.05.00:282][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.05.00:282][680]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.05.02:609][749]LogSlate: Window 'BP_Spike' being destroyed
+[2023.05.27-14.05.30:218][581]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.27-14.05.30:250][581]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.27-14.05.41:987][738]LogContentBrowser: Attempting asset rename: NewFolder -> Libraries
+[2023.05.27-14.05.41:989][738]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.27-14.06.17:352][ 86]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.27-14.06.39:568][299]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.27-14.06.39:575][299]LogContentBrowser: Deferred new asset file creation: NewMacroLibrary
+[2023.05.27-14.06.39:589][299]LogContentBrowser: Creating deferred item: NewMacroLibrary
+[2023.05.27-14.06.48:683][442]LogContentBrowser: Attempting asset rename: NewMacroLibrary -> ML_Actors
+[2023.05.27-14.06.48:690][442]LogContentBrowser: End creating deferred item NewMacroLibrary
+[2023.05.27-14.06.49:574][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2023.05.27-14.09.32:014][583]LogUObjectHash: Compacting FUObjectHashTables data took  13.07ms
+[2023.05.27-14.09.32:020][583]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.185
+[2023.05.27-14.09.32:021][583]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Collectables/BP_Crystal] ([2] browsable assets)...
+[2023.05.27-14.09.32:105][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal]
+[2023.05.27-14.09.32:105][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Collectables/BP_Crystal]
+[2023.05.27-14.09.32:203][583]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Crystal_Auto4C5F8F005415AC81DAA3C7EA15A6C52AE.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Collectables/BP_Crystal_Auto4.uasset'
+[2023.05.27-14.09.32:214][583]LogFileHelpers: Auto-saving content packages took 0.193
+[2023.05.27-14.11.27:642][ 74]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/ML_Actors97556A04419EEDCA24B9ADB7D7F51D95.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Libraries/ML_Actors.uasset'
+[2023.05.27-14.11.27:671][ 74]AssetCheck: New page: Asset Save: ML_Actors
+[2023.05.27-14.11.27:671][ 74]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
