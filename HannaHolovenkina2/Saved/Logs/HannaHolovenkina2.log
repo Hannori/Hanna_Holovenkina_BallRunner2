@@ -5166,3 +5166,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.27-16.11.48:854][206]LogEditorViewport: Clicking Background
 [2023.05.27-16.11.50:874][227]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
 [2023.05.27-16.11.54:945][264]LogEditorViewport: Clicking Background
+[2023.05.27-16.13.56:628][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/M_BulletCCEDE5ED4BE9D4505F05E5A2D47E0C3C.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Materials/M_Bullet.uasset'
+[2023.05.27-16.13.56:667][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/M_Crystal051C88F9473A546407D728AC8AC700D4.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Materials/M_Crystal.uasset'
+[2023.05.27-16.13.56:706][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/M_Spike1C5EA170420CBA4556836080CC276098.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Materials/M_Spike.uasset'
+[2023.05.27-16.13.56:913][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.05.27-16.13.56:968][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.05.27-16.13.57:010][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.05.27-16.13.57:073][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.05.27-16.13.57:119][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.05.27-16.13.57:200][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Bullet9E7855A34C45D30FA1709C9D0D2E6531.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Actors/Projectiles/BP_Bullet.uasset'
+[2023.05.27-16.13.57:278][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Crystal3BD5A2274A98E941F2849ABD3BA82F74.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Actors/Collectables/BP_Crystal.uasset'
+[2023.05.27-16.13.57:328][491]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_SpikeD426E5CB446F62D51D3CFDADE43967BF.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Actors/Spike/BP_Spike.uasset'
+[2023.05.27-16.13.57:435][491]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_Bullet.BP_Bullet
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Material /Game/Blueprints/Materials/M_Bullet.M_Bullet
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Material /Game/Blueprints/Materials/M_Crystal.M_Crystal
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Spike/BP_Spike.BP_Spike
+[2023.05.27-16.13.57:435][491]LogContentValidation: Display: Validating Material /Game/Blueprints/Materials/M_Spike.M_Spike
+[2023.05.27-16.14.02:758][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.05.27-16.14.05:626][753]LogSlate: Window 'Save Content' being destroyed
+[2023.05.27-16.14.05:766][753]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_PlayerPawnC5831B4547A6479EE935BF834F66B16A.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Actors/Pawns/BP_PlayerPawn.uasset'
+[2023.05.27-16.14.05:785][753]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_WallE1C1EB1A4C0DBA4EA83D59A7E51A7A1B.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Actors/InvisibleWall/BP_Wall.uasset'
+[2023.05.27-16.14.05:855][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.27-16.14.05:916][753]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level2616E8BB2441B8A33240111898DBCF286.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Levels/Level2.umap'
+[2023.05.27-16.14.05:961][753]LogFileHelpers: Saving map 'Level2' took 0.167
+[2023.05.27-16.14.05:999][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.05.27-16.14.05:999][753]Cmd: MAP LOAD FILE="../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.27-16.14.05:999][753]LightingResults: New page: Lighting Build
+[2023.05.27-16.14.05:999][753]LoadErrors: New page: Loading map: Level1.umap
+[2023.05.27-16.14.06:018][753]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.14.06:018][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.14.06:085][753]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.14.06:085][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.14.06:085][753]MapCheck: New page: Map Check
+[2023.05.27-16.14.06:085][753]LightingResults: New page: Lighting Build
+[2023.05.27-16.14.06:130][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.27-16.14.06:142][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.05.27-16.14.06:144][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.05.27-16.14.06:239][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.27-16.14.06:239][753]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-16.14.06:295][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.05.27-16.14.06:312][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.27-16.14.06:312][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,155ms to complete.
+[2023.05.27-16.14.06:313][753]LogFileHelpers: Loading map 'Level1' took 0.314
+[2023.05.27-16.14.06:350][753]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.27-16.14.06:350][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Pawns/BP_PlayerPawn.BP_PlayerPawn
+[2023.05.27-16.14.06:350][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/InvisibleWall/BP_Wall.BP_Wall
+[2023.05.27-16.14.06:350][753]LogContentValidation: Display: Validating World /Game/Levels/Level2.Level2
+[2023.05.27-16.14.13:783][856]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon2)
+[2023.05.27-16.14.17:511][905]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon2)
+[2023.05.27-16.14.23:291][981]LogEditorViewport: Clicking Background
+[2023.05.27-16.14.33:779][157]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.05.27-16.14.39:565][235]LogEditorViewport: Clicking Background
+[2023.05.27-16.14.47:050][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.05.27-16.14.47:114][334]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1DBF50B644423B44E8F80C59782E69611.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Levels/Level1.umap'
+[2023.05.27-16.14.47:165][334]AssetCheck: New page: Asset Save: Level1
+[2023.05.27-16.14.47:165][334]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.05.27-16.15.01:269][595]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.15.01:269][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.15.02:106][604]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.27-16.15.02:106][604]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.15.02:106][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.15.02:909][614]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.27-16.15.02:909][614]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-16.15.02:909][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-16.15.10:492][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.05.27-16.15.10:558][994]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1EE4AFB3B444A284DB30946A35FB3C261.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Levels/Level1.umap'
+[2023.05.27-16.15.10:605][994]AssetCheck: New page: Asset Save: Level1
+[2023.05.27-16.15.10:605][994]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
