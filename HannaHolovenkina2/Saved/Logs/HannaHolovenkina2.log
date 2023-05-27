@@ -2306,3 +2306,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.27-14.11.27:642][ 74]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/ML_Actors97556A04419EEDCA24B9ADB7D7F51D95.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Content/Blueprints/Libraries/ML_Actors.uasset'
 [2023.05.27-14.11.27:671][ 74]AssetCheck: New page: Asset Save: ML_Actors
 [2023.05.27-14.11.27:671][ 74]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2023.05.27-14.19.32:758][894]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
+[2023.05.27-14.19.32:805][894]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto5D38C04BA4434ED08C926A4AF6C23229F.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto5.umap'
+[2023.05.27-14.19.32:812][894]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.151
+[2023.05.27-14.19.32:812][894]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2023.05.27-14.19.32:813][894]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Collectables/BP_Crystal] ([2] browsable assets)...
+[2023.05.27-14.19.32:877][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal]
+[2023.05.27-14.19.32:878][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Collectables/BP_Crystal]
+[2023.05.27-14.19.32:927][894]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Crystal_Auto50599FB62490FA8909641EB9F09E098E2.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Collectables/BP_Crystal_Auto5.uasset'
+[2023.05.27-14.19.32:932][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Libraries/ML_Actors] ([2] browsable assets)...
+[2023.05.27-14.19.32:932][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Libraries/ML_Actors]
+[2023.05.27-14.19.32:940][894]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/ML_Actors_Auto5A87FA44F46069265EA7EA884C5C4C108.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Libraries/ML_Actors_Auto5.uasset'
+[2023.05.27-14.19.32:943][894]LogFileHelpers: Auto-saving content packages took 0.131
+[2023.05.27-14.36.05:176][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.05:176][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.18:041][388]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.27-14.36.18:054][388]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.27-14.36.18:072][388]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.27-14.36.22:371][614]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.22:371][614]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.23:369][663]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.23:369][663]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-14.36.28:465][874]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Win
+[2023.05.27-14.36.28:471][874]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.27-14.36.29:471][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggers/BP_Win.BP_Win
+[2023.05.27-14.38.10:328][405]BlueprintLog: New page: Compile BP_Win
+[2023.05.27-14.38.10:457][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.05.27-14.39.17:960][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2023.05.27-14.39.18:002][963]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto6B58D94A148FD97DF2A21E2BB12701946.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto6.umap'
+[2023.05.27-14.39.18:011][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.146
+[2023.05.27-14.39.18:011][963]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2023.05.27-14.40.19:300][526]BlueprintLog: New page: Compile BP_Win
+[2023.05.27-14.40.19:457][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2023.05.27-14.40.20:727][543]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.27-14.40.20:743][543]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.27-14.40.20:744][543]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2023.05.27-14.40.20:853][543]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2023.05.27-14.40.20:853][543]LogPlayLevel: [PlayLevel]   Compiling ML_Actors as a dependent...
+[2023.05.27-14.40.21:059][543]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2023.05.27-14.40.21:061][543]LogPlayLevel: PlayLevel: Blueprint regeneration took 317 ms (3 blueprints)
+[2023.05.27-14.40.21:061][543]PIE: New page: PIE session: Level1 (27 трав. 2023 р., 18:40:21)
+[2023.05.27-14.40.21:062][543]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.27-14.40.21:081][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018719s)
+[2023.05.27-14.40.21:082][543]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-14.40.21:083][543]LogPlayLevel: PIE: World Init took: (0.002466s)
+[2023.05.27-14.40.21:083][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.021479s)
+[2023.05.27-14.40.21:162][543]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.05.27-14.40.21:163][543]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-14.40.21:165][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-14.40.21:165][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-14.40.21:166][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-14.40.21:166][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-14.40.21:166][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-14.40.21:166][543]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-14.40.21:170][543]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-14.40.21:170][543]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-14.40.21:198][543]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.27-14.40.21:198][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-14.40.21:198][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-14.40.21:198][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-14.40.21:199][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-14.40.21:199][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-14.40.21:199][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-14.40.21:201][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-14.40.21:201][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-14.40.21:201][543]LogInit: FAudioDevice initialized.
+[2023.05.27-14.40.21:201][543]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2023.05.27-14.40.21:223][543]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.27-14.40.21:226][543]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.27-16.40.21
+[2023.05.27-14.40.21:226][543]LogWorld: Bringing up level for play took: 0.002994
+[2023.05.27-14.40.21:228][543]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.05.27-14.40.21:232][543]PIE: Server logged in
+[2023.05.27-14.40.21:233][543]PIE: Play in editor total start time 0,495 seconds.
+[2023.05.27-14.40.36:138][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.40.36:138][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.27-14.40.36:138][617]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-14.40.36:139][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.40.37:058][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-14.40.37:074][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-14.40.37:149][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-14.40.37:150][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.40.37:151][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-14.40.37:164][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2023.05.27-14.40.37:207][618]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.27-14.41.11:923][531]LogEditorTransaction: Undo Move Node
+[2023.05.27-14.41.12:425][545]LogEditorTransaction: Undo Move Node
+[2023.05.27-14.43.16:900][737]LogSlate: Took 0.020225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.05.27-14.46.23:143][400]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.27-14.46.23:204][400]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.27-14.49.09:952][996]BlueprintLog: New page: Compile BP_Win
+[2023.05.27-14.49.09:958][996]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Triggers/BP_Win.BP_Win (no disk path found): [Compiler] Function  SetActorLocation  can modify state and cannot be called on 'self' because it is a read-only Target in this context
+[2023.05.27-14.49.10:148][996]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2023.05.27-14.49.47:981][110]BlueprintLog: New page: Compile BP_Win
+[2023.05.27-14.49.47:987][110]LogBlueprint: Error: [AssetLog] /Game/Blueprints/Triggers/BP_Win.BP_Win (no disk path found): [Compiler] Variable  New Var 0  is read-only within this context and cannot be set to a new value
+[2023.05.27-14.49.48:143][110]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2023.05.27-14.50.37:883][712]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2023.05.27-14.50.37:925][712]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto740B9D21E4F6D6A05FDBFCBB683CDA5B0.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto7.umap'
+[2023.05.27-14.50.37:930][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.137
+[2023.05.27-14.50.37:931][712]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.137
+[2023.05.27-14.50.37:931][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Collectables/BP_Crystal] ([2] browsable assets)...
+[2023.05.27-14.50.38:044][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal]
+[2023.05.27-14.50.38:045][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Collectables/BP_Crystal]
+[2023.05.27-14.50.38:095][712]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Crystal_Auto73879F780476F52434A9DEDA1816E8A4F.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Collectables/BP_Crystal_Auto7.uasset'
+[2023.05.27-14.50.38:098][712]LogFileHelpers: Auto-saving content packages took 0.168
