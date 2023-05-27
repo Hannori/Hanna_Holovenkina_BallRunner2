@@ -4041,3 +4041,138 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.05.27-10.15.11:863][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Cannon/BP_Cannon]
 [2023.05.27-10.15.11:886][394]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Cannon_Auto0588E00A54813FE52F33D0F8C12F37A10.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Cannon/BP_Cannon_Auto0.uasset'
 [2023.05.27-10.15.11:886][394]LogFileHelpers: Auto-saving content packages took 0.302
+[2023.05.27-10.25.11:999][851]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-10.25.11:999][851]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.27-10.25.33:239][546]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.27-10.26.50:301][660]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2023.05.27-10.26.50:340][660]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto19DF061654DDFDC0B0BAC3BBF6A1444A6.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.05.27-10.26.50:343][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.121
+[2023.05.27-10.26.50:343][660]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2023.05.27-10.26.50:344][660]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Cannon/BP_Cannon] ([2] browsable assets)...
+[2023.05.27-10.26.50:372][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2023.05.27-10.26.50:372][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Cannon/BP_Cannon]
+[2023.05.27-10.26.50:397][660]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Cannon_Auto123A0F52442FE90AE848B3AA243F79836.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Cannon/BP_Cannon_Auto1.uasset'
+[2023.05.27-10.26.50:399][660]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.05.27-10.27.03:305][756]LogSlate: Window 'BP_Cannon' being destroyed
+[2023.05.27-10.27.06:656][913]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.27.07:796][955]LogEditorViewport: Clicking on Actor (LMB): BP_Bullet_C (BP_Bullet)
+[2023.05.27-10.27.09:222][ 11]Cmd: DELETE
+[2023.05.27-10.27.09:223][ 11]Cmd: ACTOR DELETE
+[2023.05.27-10.27.09:234][ 11]LogEditorActor: Deleted Actor: BP_Bullet_C
+[2023.05.27-10.27.09:309][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.05.27-10.27.09:310][ 11]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.05.27-10.27.10:396][ 36]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.27.19:793][198]Cmd: EDIT COPY
+[2023.05.27-10.27.20:169][201]Cmd: EDIT PASTE
+[2023.05.27-10.28.19:144][739]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.28.20:551][755]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon2)
+[2023.05.27-10.29.14:581][994]LogRenderer: Reallocating scene render targets to support 1480x784 Format 10 NumSamples 1 (Frame:17280).
+[2023.05.27-10.30.16:312][178]BlueprintLog: New page: Compile BP_Cannon
+[2023.05.27-10.30.16:446][178]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2023.05.27-10.30.37:407][478]LogTemp: Repeating last play command: Simulate
+[2023.05.27-10.30.37:422][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.27-10.30.37:422][478]PIE: New page: SIE session: Level1 (27 трав. 2023 р., 14:30:37)
+[2023.05.27-10.30.37:422][478]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.05.27-10.30.37:445][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022179s)
+[2023.05.27-10.30.37:448][478]LogAIModule: Creating AISystem for world Level1
+[2023.05.27-10.30.37:448][478]LogPlayLevel: PIE: World Init took: (0.002733s)
+[2023.05.27-10.30.37:448][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.025162s)
+[2023.05.27-10.30.37:528][478]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2023.05.27-10.30.37:530][478]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.27-10.30.37:531][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.27-10.30.37:531][478]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.27-10.30.37:531][478]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.27-10.30.37:531][478]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.27-10.30.37:531][478]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.27-10.30.37:534][478]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.27-10.30.37:534][478]LogAudioMixer: Display: 1: FrontRight
+[2023.05.27-10.30.37:557][478]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.05.27-10.30.37:557][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.27-10.30.37:557][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.27-10.30.37:557][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.27-10.30.37:559][478]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.27-10.30.37:559][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.27-10.30.37:559][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.27-10.30.37:560][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.27-10.30.37:561][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.27-10.30.37:561][478]LogInit: FAudioDevice initialized.
+[2023.05.27-10.30.37:561][478]LogAudio: Display: Audio Device (ID: 47) registered with world 'Level1'.
+[2023.05.27-10.30.37:571][478]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.27-10.30.37:573][478]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.05.27-12.30.37
+[2023.05.27-10.30.37:574][478]LogWorld: Bringing up level for play took: 0.001844
+[2023.05.27-10.30.37:574][478]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.05.27-10.30.37:577][478]PIE: Server logged in
+[2023.05.27-10.30.37:578][478]PIE: Play in editor total start time 0,158 seconds.
+[2023.05.27-10.30.38:312][488]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.38:312][488]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_0.Sphere' 
+[2023.05.27-10.30.38:312][488]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.38:312][488]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_0.StaticMesh' 
+[2023.05.27-10.30.39:318][496]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.39:318][496]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_2.Sphere' 
+[2023.05.27-10.30.39:319][496]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_2.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.39:319][496]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_2.StaticMesh' 
+[2023.05.27-10.30.40:489][503]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_4.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.40:489][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_4.Sphere' 
+[2023.05.27-10.30.40:489][503]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_4.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.40:490][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_4.StaticMesh' 
+[2023.05.27-10.30.41:519][509]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_6.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.41:519][509]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_6.Sphere' 
+[2023.05.27-10.30.41:519][509]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_6.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.41:519][509]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_6.StaticMesh' 
+[2023.05.27-10.30.42:700][516]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_8.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.42:700][516]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_8.Sphere' 
+[2023.05.27-10.30.42:701][516]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_8.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.42:701][516]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_8.StaticMesh' 
+[2023.05.27-10.30.43:853][523]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_10.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.43:853][523]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_10.Sphere' 
+[2023.05.27-10.30.43:853][523]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_10.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.43:853][523]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_10.StaticMesh' 
+[2023.05.27-10.30.45:742][532]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.30.51:372][566]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_12.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.51:372][566]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_12.Sphere' 
+[2023.05.27-10.30.51:374][566]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_12.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.30.51:374][566]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_12.StaticMesh' 
+[2023.05.27-10.30.52:699][574]Cmd: SELECT NONE
+[2023.05.27-10.31.22:360][857]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_14.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.31.22:360][857]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_14.Sphere' 
+[2023.05.27-10.31.22:361][857]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_14.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.31.22:361][857]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_14.StaticMesh' 
+[2023.05.27-10.31.23:393][866]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_16.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.31.23:394][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_16.Sphere' 
+[2023.05.27-10.31.23:394][866]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_16.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.05.27-10.31.23:394][866]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Bullet_C_16.StaticMesh' 
+[2023.05.27-10.31.24:852][876]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.31.38:202][966]Cmd: SELECT NONE
+[2023.05.27-10.31.42:387][995]Cmd: SELECT NONE
+[2023.05.27-10.31.43:110][  1]Cmd: SELECT NONE
+[2023.05.27-10.31.43:956][  6]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon)
+[2023.05.27-10.31.44:042][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-10.31.44:042][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.05.27-10.31.44:043][  7]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.05.27-10.31.44:043][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-10.31.44:178][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.27-10.31.44:194][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.27-10.31.44:248][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.27-10.31.44:249][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-10.31.44:250][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.27-10.31.44:259][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.05.27-10.31.44:307][  8]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.05.27-10.31.49:374][ 70]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon2)
+[2023.05.27-10.31.53:951][126]LogEditorViewport: Clicking Background
+[2023.05.27-10.31.54:975][137]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (Cannon2)
+[2023.05.27-10.37.57:386][493]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.05.27-10.37.57:427][493]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Level1_Auto2ABC54CF64CB811A58C196EBEAA167F25.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Levels/Level1_Auto2.umap'
+[2023.05.27-10.37.57:431][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.116
+[2023.05.27-10.37.57:431][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2023.05.27-10.37.57:432][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/Cannon/BP_Cannon] ([2] browsable assets)...
+[2023.05.27-10.37.57:499][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Cannon/BP_Cannon.BP_Cannon]
+[2023.05.27-10.37.57:499][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Cannon/BP_Cannon]
+[2023.05.27-10.37.57:527][493]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/BP_Cannon_Auto26C83E0F54DE77ADB9F43579AE48B46D9.tmp' to '../../../../../../Users/Hanna/Desktop/BallRunner/Hanna_Holovenkina_BallRunner2/HannaHolovenkina2/Saved/Autosaves/Game/Blueprints/Actors/Cannon/BP_Cannon_Auto2.uasset'
+[2023.05.27-10.37.57:528][493]LogFileHelpers: Auto-saving content packages took 0.097
